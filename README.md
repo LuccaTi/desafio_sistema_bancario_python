@@ -1,6 +1,6 @@
 Hi there 👋
 
-## sistema_bancario_inicial_python :computer::snake:
+## Sistema_bancario_inicial_python :computer::snake:
 
 Primeiro desafio do curso python developer, simulação básica de um sistema bancário.
 
